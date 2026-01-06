@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# BananaBark — Real ou Feike?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Experimento "Fake or Natty" comparando uma imagem gerada por IA e uma fotografia real. Neste projeto eu criei uma imagem de um cachorro comendo banana usando a IA generativa Nano Banana e a comparei com uma foto real de um cachorro comendo banana, para documentar o processo, parâmetros e reflexões sobre identificação de conteúdo gerado por IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Nano Banana (IA generativa de criação de imagem)
+- Ferramentas de edição (ajuste de cor/recorte)
+- Ferramentas para remover/examinar metadados (EXIF)
+- Git / GitHub
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Definição do prompt (exemplo):
+Prompt: "cachorro pequeno sentado, comendo uma banana, fotografia natural, luz suave, profundidade de campo rasa"
+- Geração com Nano Banana — selecionei a melhor iteração e apliquei ajustes mínimos (cor e corte).
+- Preparação da foto real: capturei/selecionai a foto, fiz recorte e removi metadados sensíveis.
+- Organização: versões finais salvas em assets/com nomes claros.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Observações qualitativas:
+ - - Elementos que denunciam geração por IA: texturas irregulares em áreas de pelo, detalhes anômalos na banana (forma/textura), pequenas inconsistências em dentes/gengiva.
+ - - Elementos que ajudam a parecer natural: iluminação coerente e sombras plausíveis em algumas iterações.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+- Decisão (exemplo): descreva aqui qual imagem você identificou como real/fake e por que — isto é parte do experimento.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Declaro que a imagem gerada por IA foi criada com Nano Banana; a outra imagem é uma fotografia real. Recomenda-se sempre sinalizar claramente quando conteúdo foi gerado por IA. Este repositório documenta isso explicitamente para fins de aprendizado e pesquisa.
